@@ -1,30 +1,3 @@
-# lab-28
-
-# code-sandbox
-React labs 
-
-[Repo](https://github.com/hingham/code-sandbox)
-
-Assignments: Component Based UI
-[Code Sandbox](https://4ro208qx20.codesandbox.io/)
-
-#### Modules:
-* app.js
-* header.js
-* footer.js
-
-#### Styles:
-* app.scss
-* grid.css
-
-#### Description: 
-* Buttons to increment and decrement counter
-* Background-color changes when counter is less than 0
-* elements are styled using grid
-
-#### UML
-![image](./assets/component-uml.JPG)
-
 ## Props and State 01.30.19
 
 [Repo](https://github.com/hingham/react-hi)
@@ -63,7 +36,7 @@ Using props:
 When you require in a component, give it the props that reference the corresponding properties of state you are using in the component. 
 
 
-![image]()
+![image](./lab-28-uml.JPG)
 
 
 
