@@ -36,7 +36,7 @@ Using props:
 When you require in a component, give it the props that reference the corresponding properties of state you are using in the component. 
 
 
-![image](./lab-28-uml.JPG)
+![image](./lab-39-uml.JPG)
 
 
 
